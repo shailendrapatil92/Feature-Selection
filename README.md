@@ -5,5 +5,5 @@ Contains Feature Selection Methods:
 2. Wrapper Methods
 3. Embedded
 
-These as a part of learning from the below course:
+Reference:
 https://www.udemy.com/feature-selection-for-machine-learning
