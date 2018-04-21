@@ -1,6 +1,6 @@
 This folder contains methods to select important numerical features using Lasso
 
-NOTE: This methods are computationally expensive
+
 
 1. Lasso Linear Regression.ipynb
 
