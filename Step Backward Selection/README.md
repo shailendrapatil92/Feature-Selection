@@ -1,4 +1,4 @@
-This folder contains methods to select important numerical features using Step Forward Selection
+This folder contains methods to select important numerical features using Step Backward Selection
 
 NOTE: This methods are computationally expensive
 
