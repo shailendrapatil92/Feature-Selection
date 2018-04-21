@@ -1,5 +1,7 @@
 This folder contains methods to select important numerical features using Step Forward Selection
 
+These methods are computationally expensive
+
 1. Step Forward Regression.ipynb
 
 This is to select features when we have regression problem using a Random Forest Regressor.
