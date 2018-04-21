@@ -1,5 +1,5 @@
 This folder contains methods to select important numerical features using Logistic Regression Coefficients and also check how regularization
-affects the model coefficients
+affects the model coefficients.
 
 
 1.Logistic Regression Coefficient.ipynb
